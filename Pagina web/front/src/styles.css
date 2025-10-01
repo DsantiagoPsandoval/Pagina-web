@@ -1,0 +1,5 @@
+body{ background: linear-gradient(180deg,#0f172a 0%, #071133 100%); color:#e6eef8; }
+.container{ max-width:1000px; }
+.card{ background: rgba(255,255,255,0.03); border-radius:12px; }
+.header-brand{ font-weight:700; }
+a.nav-link{ color: #e6eef8 !important; }
